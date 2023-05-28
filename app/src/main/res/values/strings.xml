@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="tap_navigation">Simply <b>\"TAP\"</b> and easily navigate \nto your child\'s location</string>
+    <string name="no_of_sessions">%s/%s </string>
+    <string name="emergency_alert_message">%s has cancelled the emergency alert, it has been notified to all other contacts.</string>
+    <string name="need_help_message">%s, is currently in an emergency situation.</string>
+    <string name="call_now">Call Now</string>
+    <string name="view_location">View Location</string>
+    <string name="need_help">Need Help</string>
+    <string name="emergency_alert_cancelled">EMERGENCY ALERT CANCELLED</string>
+</resources>
